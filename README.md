@@ -1,7 +1,15 @@
-## Hi there 👋
+# ¡Hola Mundo! Mi nombre es [Tu Nombre] 👋
 
-<!--
-**coteensignia/coteensignia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](URL_DE_TU_IMAGEN)
+
+
+## Contacto
+
+- 🌍 Viña del Mar, Chile
+- 🕒 Hora local: 12:37 - misma hora
+- [LinkedIn](https://www.linkedin.com/in/mj-ensignia/)
+
+
 
 Here are some ideas to get you started:
 
