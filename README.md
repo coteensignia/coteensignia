@@ -1,4 +1,4 @@
-# ¡Hola Mundo! Mi nombre es <Cote Ensignia> 👋
+# ¡Hola Mundo! 👋
 
 
 ![github](https://github.com/user-attachments/assets/322a26d5-f732-4c6c-9211-f939395f56e3)
