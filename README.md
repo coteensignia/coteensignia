@@ -1,7 +1,7 @@
-# ¡Hola Mundo! Mi nombre es [Tu Nombre] 👋
+# ¡Hola Mundo! Mi nombre es [Cote Ensignia] 👋
 
-![Banner](URL_DE_TU_IMAGEN)
 
+![github](https://github.com/user-attachments/assets/322a26d5-f732-4c6c-9211-f939395f56e3)
 
 ## Contacto
 
