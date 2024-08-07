@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
   ## Contacto
 
-- 🌍 Viña del Mar, Chile
-- 🕒 Hora local: 12:37 - misma hora
+- 📌 Viña del Mar, Chile
+- 🕒 ![Última actualización](https://img.shields.io/badge/última_actualización-2024--08--07-brightgreen)
 - [LinkedIn](https://www.linkedin.com/in/mj-ensignia/)
