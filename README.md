@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   ## Contacto
 
 - 📌 Viña del Mar, Chile
-- 🕒 ![Última actualización](https://img.shields.io/badge/última_actualización-2024--08--07-brightgreen)
+- 🕒 ![Hora Local](https://img.shields.io/badge/última_actualización-2024--08--07-brightgreen](https://time.is/)
 - [LinkedIn](https://www.linkedin.com/in/mj-ensignia/)
