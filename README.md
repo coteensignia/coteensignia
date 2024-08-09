@@ -1,4 +1,4 @@
-# ¡Hola Mundo! 👋
+# ¡Hello World! 👋
 
 
 ![github](https://github.com/user-attachments/assets/322a26d5-f732-4c6c-9211-f939395f56e3)
@@ -11,8 +11,7 @@ Como diseñadora UX y programadora, ahora puedo fusionar la creatividad del dise
 
 Mi enfoque es equilibrar la estética visual, la usabilidad y la experiencia del usuario, creando soluciones digitales atractivas y funcionales. Siempre estoy dispuesta a aprender y actualizarme, explorando las últimas tendencias y herramientas.
 
-
-Here are some ideas to get you started:
+Sobre Mi:
 
 
 - 🔭 Actualmente estoy trabajando en un proyecto de diseño UX/UI para una plataforma de ANID.
@@ -29,5 +28,4 @@ Here are some ideas to get you started:
   ## Contacto
 
 - 📌 Viña del Mar, Chile
-- 🕒 ![Hora Local](https://img.shields.io/badge/última_actualización-2024--08--07-brightgreen](https://time.is/)
-- [LinkedIn](https://www.linkedin.com/in/mj-ensignia/)
+- 🕒 Hora estándar de Chile (UTC−3).
